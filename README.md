@@ -1,6 +1,1 @@
-## Owner At Mercenary.lol
-## Developer of Vouches.lol
-
- Working on Mercenary HWID Spoofer 
- Working on Hypixel Skyblock Macros
-
+![img](https://pub-f71286cc5a134adab7fa47e4f9ff6503.r2.dev/NarcLogo.png)
